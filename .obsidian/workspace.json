@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e6e4c42c05765aa2",
+        "id": "ebcc2d2717c0b76a",
         "type": "tabs",
         "children": [
           {
-            "id": "2a298b15218c968e",
+            "id": "a409643d6309b736",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.26.01.png"
+                "file": "Semester 3/Datenbanken/4. Structured Query Language.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Bildschirmfoto 2024-12-09 um 17.26.01"
+              "icon": "lucide-file",
+              "title": "4. Structured Query Language"
             }
           }
         ]
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.26.01.png",
+                "file": "Semester 3/Datenbanken/4. Structured Query Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bildschirmfoto 2024-12-09 um 17.26.01"
+              "title": "Backlinks for 4. Structured Query Language"
             }
           },
           {
@@ -110,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.26.01.png",
+                "file": "Semester 3/Datenbanken/4. Structured Query Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bildschirmfoto 2024-12-09 um 17.26.01"
+              "title": "Outgoing links from 4. Structured Query Language"
             }
           },
           {
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.26.01.png"
+                "file": "Semester 3/Datenbanken/4. Structured Query Language.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Bildschirmfoto 2024-12-09 um 17.26.01"
+              "title": "Outline of 4. Structured Query Language"
             }
           }
         ]
@@ -160,12 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "408fd6a10257ec92",
+  "active": "a409643d6309b736",
   "lastOpenFiles": [
-    "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.26.29.png",
-    "Semester 3/Datenbanken/4. Structured Query Language.md",
     "Semester 3/Datenbanken/5. Relationale Entwurfstheorie.md",
     "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.26.01.png",
+    "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.26.29.png",
+    "Semester 3/Datenbanken/4. Structured Query Language.md",
     "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.17.24.png",
     "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.12.10.png",
     "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.11.56.png",
