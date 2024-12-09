@@ -11,14 +11,12 @@
             "id": "2a298b15218c968e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Semester 3/Datenbanken/5. Relationale Entwurfstheorie.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.26.01.png"
               },
-              "icon": "lucide-file",
-              "title": "5. Relationale Entwurfstheorie"
+              "icon": "lucide-image",
+              "title": "Bildschirmfoto 2024-12-09 um 17.26.01"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 3/Datenbanken/5. Relationale Entwurfstheorie.md",
+                "file": "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.26.01.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5. Relationale Entwurfstheorie"
+              "title": "Backlinks for Bildschirmfoto 2024-12-09 um 17.26.01"
             }
           },
           {
@@ -112,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 3/Datenbanken/5. Relationale Entwurfstheorie.md",
+                "file": "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.26.01.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5. Relationale Entwurfstheorie"
+              "title": "Outgoing links from Bildschirmfoto 2024-12-09 um 17.26.01"
             }
           },
           {
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/Datenbanken/5. Relationale Entwurfstheorie.md"
+                "file": "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.26.01.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. Relationale Entwurfstheorie"
+              "title": "Outline of Bildschirmfoto 2024-12-09 um 17.26.01"
             }
           }
         ]
@@ -164,11 +162,13 @@
   },
   "active": "408fd6a10257ec92",
   "lastOpenFiles": [
-    "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.17.24.png",
+    "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.26.29.png",
     "Semester 3/Datenbanken/4. Structured Query Language.md",
+    "Semester 3/Datenbanken/5. Relationale Entwurfstheorie.md",
+    "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.26.01.png",
+    "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.17.24.png",
     "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.12.10.png",
     "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-09 um 17.11.56.png",
-    "Semester 3/Datenbanken/5. Relationale Entwurfstheorie.md",
     "Semester 3/Datenbanken/Beispiele/SQL-Beispiele.md",
     "Semester 3/Datenbanken/3. Relationales Modell & Algebra.md",
     "Semester 3/Datenbanken/6. Datenintegrität.md",
@@ -178,9 +178,6 @@
     "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-07 um 15.48.44.png",
     "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-07 um 15.48.31.png",
     "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-07 um 15.48.22.png",
-    "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-07 um 15.47.32.png",
-    "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-07 um 15.45.41.png",
-    "Semester 3/Datenbanken/rsc/Bildschirmfoto 2024-12-07 um 15.44.13.png",
     "Semester 3/Mathe 3/Vorlesungsskript.md",
     "Semester 3/Datenbanken/rsc",
     "Semester 3/Mathe 3",
