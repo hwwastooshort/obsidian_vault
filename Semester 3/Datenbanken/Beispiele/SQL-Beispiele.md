@@ -36,7 +36,7 @@ WHERE Name = 'Best of'
 SELECT Name
 FROM Artists
 WHERE Gender IS NOT NULL 
-AND Location in ('Norway', 'Sweden')
+AND Location IN ('Norway', 'Sweden')
 ```
 - Geben Sie Jahre aus, in denen sowohl ein Album von The Beatles als auch ein Album von The Rolling Stones erschienen ist
 ```sql
